@@ -1,0 +1,16 @@
+Open the "design" folder. Launch the index.html file. You will see the project you will be working on with the necessary dimensions in the browser.
+We have also sliced the images for you. You can find all of them inside the "assets" folder.
+
+
+For the entire project you have to use Bootstrap 4+.
+
+First Section:
+-> Create the JavaScript countdown timer. We do not encourage using third party code. If you use any third party code, be sure to include the author name and URL.
+
+-> To understand the animation better, refer to the video in this folder. You can use only CSS for the cloud animation.
+
+Second and Third Section:
+-> In mobile devices the images should come before the text. It means the images will be on top of the texts.
+
+Fourth Section:
+-> This is a carousel or you may refer to as a slider where the contents will scroll automatically. You have to use JavaScript for the animation. As mentioned above, we do not appreciate using third party code, but if you do so, do not forget to include the author name and link.

@@ -1,0 +1,8 @@
+Hi,
+I haven't directly copied from any 3rd party source.
+But I took help from some resources to learn. I'm mentioning the links in here.
+
+1. https://www.w3schools.com/css/css3_gradients.asp
+2. https://www.w3schools.com/css/css3_animations.asp
+3. https://css-tricks.com/
+4. 
